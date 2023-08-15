@@ -1,0 +1,23 @@
+{
+     "lastId": 2,
+     "products": [
+          {
+               "title": "p1",
+               "description": "algodon",
+               "price": 100,
+               "thumbnail": "sin imagen",
+               "stock": 1,
+               "code": 25,
+               "id": 1
+          },
+          {
+               "title": "p2",
+               "description": "nylon",
+               "price": 200,
+               "thumbnail": "sin imagen",
+               "stock": 2,
+               "code": 24,
+               "id": 2
+          }
+     ]
+}
